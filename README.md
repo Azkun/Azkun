@@ -3,17 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azkun&label=Profile%20views&color=0e75b6&style=flat" alt="azkun" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azkun" alt="azkun" /></a> </p>
-
-- 🔭 I’m currently working on [REVENGE - Horror Game](https://www.roblox.com/games/10320720996/TEST-Revenge)
-
-- 🌱 I’m currently learning **Lua**
-
 - 👨‍💻 Personal Website [http://qwkun.glitch.me/](http://qwkun.glitch.me/)
 
 - 📫 How to reach me **azkun.second@gmail.com**
-
-- ⚡ Fun fact **I don't code that much because of school**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

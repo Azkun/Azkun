@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azkun&label=Profile%20views&color=0e75b6&style=flat" alt="azkun" /> </p>
 
-- 👨‍💻 Personal Website [http://qwkun.glitch.me/](http://qwkun.glitch.me/)
+-  Personal Website [http://qwkun.space/](http://qwkun.space/)
 
-- 📫 How to reach me **azkun.second@gmail.com**
+-  How to reach me [azkun.second@gmail.com](mailto:azkun.second@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
